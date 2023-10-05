@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LargestNum",
+            "request": "launch",
+            "mainClass": "LargestNum",
+            "projectName": "codding_b9c6f2fc"
+        },
+        {
+            "type": "java",
+            "name": "CountFrequency",
+            "request": "launch",
+            "mainClass": "HashMapCon.CountFrequency",
+            "projectName": "codding_b9c6f2fc"
+        },
+        {
+            "type": "java",
+            "name": "Subsets",
+            "request": "launch",
+            "mainClass": "Arrays.Subsets",
+            "projectName": "codding_b9c6f2fc"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Code",
+            "request": "launch",
+            "mainClass": "Code",
+            "projectName": "codding_ffd6d8e9"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "codding_ffd6d8e9"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "codding_ffd6d8e9"
+        }
+    ]
+}
